@@ -5,6 +5,7 @@ Link: https://github.com/kushol/Using-Restricted-Natural-language-for-Conceptual
 1. https://www.aclweb.org/anthology/U18-1005.pdf
 2. https://link.springer.com/chapter/10.1007/978-3-030-39469-1_1
 3. https://www.aclweb.org/anthology/U19-1017/
+4. https://journals.sagepub.com/doi/10.1177/0165551520921342
 _______________________________________________________________________________________
 •	A semi-automatic mapper for enriching existing knowledge bases:  This was my master’s project where I was working to map the contents of an external knowledge base (YAGO) to a target knowledge base (The Universal Knowledge base). The main task of this project was to perform analysis of an external knowledge base (YAGO) with the purpose of evaluating its quality and mapping it with a linguistic resource (The Universal Knowledge base). For this project at first, I have gone through the existing mapping process to identify their limitations and then I came up with a new mapping technique that takes the advantages from both manual and automatic mapping processes. The outcome of this project was a tool named Semi-Automatic Mapper (SAM) that allows user to map an external knowledgebase to a target knowledge base therefore helps user to enrich the existing knowledge bases. The tool was developed using JAVA, HTML, CSS, JavaScript, and MySQL. The project was a successful one since it was acknowledged by the semantic web community.
 
